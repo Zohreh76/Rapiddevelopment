@@ -1,0 +1,23 @@
+.descriptions {
+	word-wrap: break-word;
+}
+
+.jobdetails {
+	font-size: 13px;
+}
+
+p {
+	word-wrap: break-word;
+}
+
+#titles {
+	color: red;
+}
+
+.find-job {
+	min-height: 750px;
+}
+
+.editadminpage {
+	min-height: 750px;
+}
